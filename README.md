@@ -45,7 +45,7 @@ A full-stack MERN application that enables users to create repositories, upload 
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Deepak-11-03/alobha-test.git
+git clone https://github.com/Deepak-11-03/file-versioning.git
 
 ```
 
